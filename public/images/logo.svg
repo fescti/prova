@@ -1,0 +1,8 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg width="100%" height="100%" viewBox="0 0 91 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule: evenodd; clip-rule: evenodd; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 1.5;">
+    <g transform="matrix(1,0,0,1,-487.428,-544.407)">
+        <path d="M522.297,545.907L488.928,596.879L500.489,596.879L525.975,556.68L550.147,597.405L537.536,598.456L525.449,569.291" style="fill:none;stroke:black;stroke-width:3px;" class="vECDTQhM_0"></path>
+        <path d="M561.445,598.456L532.281,545.907L570.116,545.907L572.218,552.739L546.172,552.739L550.147,562.46L575.896,563.511L576.422,569.029L553.563,569.291L563.022,584.793" style="fill:none;stroke:black;stroke-width:3px;" class="vECDTQhM_1"></path>
+    </g>
+<style data-made-with="vivus-instant">.vECDTQhM_0{stroke-dasharray:212 214;stroke-dashoffset:213;animation:vECDTQhM_draw_0 7200ms ease-out 0ms infinite,vECDTQhM_fade 7200ms linear 0ms infinite;}.vECDTQhM_1{stroke-dasharray:214 216;stroke-dashoffset:215;animation:vECDTQhM_draw_1 7200ms ease-out 0ms infinite,vECDTQhM_fade 7200ms linear 0ms infinite;}@keyframes vECDTQhM_draw{100%{stroke-dashoffset:0;}}@keyframes vECDTQhM_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}@keyframes vECDTQhM_draw_0{11.11111111111111%{stroke-dashoffset: 213}31.847092419522333%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes vECDTQhM_draw_1{31.847092419522333%{stroke-dashoffset: 215}52.77777777777778%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}</style></svg>
