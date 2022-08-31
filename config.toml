@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://andreafesti.netlify.app"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Andrea Festi | Ingegnere"
 theme = "apsho"
 
 # Navigation Bar
